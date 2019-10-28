@@ -1,0 +1,4 @@
+"V1"	"V2"
+"1"	"phos_pro"	1001
+"2"	"phos_pep"	2372
+"3"	"phos_site"	2753
